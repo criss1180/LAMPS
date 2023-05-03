@@ -1,6 +1,6 @@
 # **Serveur LAMPS** 
 
-## Installation et Configuration d'APache2
+## Installation et Configuration d'Apache2
 
 Génération d'un certificat auto signé et écriture d'un nouveau certificat
 
