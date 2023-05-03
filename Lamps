@@ -1,55 +1,56 @@
 # **Serveur LAMPS** 
 
 ## Installation et Configuration d'APache2
+
 Génération d'un certificat auto signé et écriture d'un nouveau certificat
 
-![](/chemin/access/image1.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image1.png)
 
 ## Installation et configuration de la base de données
 
-![](/chemin/access/image2.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image2.png)
 
 ## Installation et configuration du langage PHP
 
-![](/chemin/access/image3.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image3.png)
 
 ## Installation et configuration du PhpMyAdmin
 
-![](/chemin/access/image4.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image4.png)
 
-![](/chemin/access/image5.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image5.png)
 
 Changement des droits root avec %
 
-![](/chemin/access/image6.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image6.png)
 
 Création d'un utlisateur USER
 
-![](/chemin/access/image7.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image7.png)
 
 ## Installation et configuration du service FTP
 
-![](/chemin/access/image8.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image8.png)
 
-![](/chemin/access/image9.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image9.png)
 
 ## Installation et configuration du partage SAMBA
 
-![](/chemin/access/image13.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image13.png)
 
 ## Script de sauvegarde des bases de données
 
-![](/chemin/access/image10.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image10.png)
 
-![](/chemin/access/image11.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image11.png)
 
 ## Installation du certificat dans Webmin
 
-![](/chemin/access/image12.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image12.png)
 
 ## Installation du Wordpress
 
-![](/chemin/access/image14.jpg)
+![](https://github.com/criss1180/LAMPS/blob/main/Image14.png)
 
 
 
